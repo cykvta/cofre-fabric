@@ -1,0 +1,4 @@
+{
+  "default" : [],
+  "minecraft:forest": ["test", "test2", "test3"]
+}

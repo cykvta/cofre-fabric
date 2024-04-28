@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "icu.cykuta.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ChestStatusMixin",
+    "ExampleMixin",
+    "OpenChestMixin",
+    "PlaceChestMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
